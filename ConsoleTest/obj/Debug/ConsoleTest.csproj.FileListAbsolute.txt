@@ -1,0 +1,16 @@
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\ConsoleTest\bin\Debug\ConsoleTest.exe
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\ConsoleTest\bin\Debug\ConsoleTest.pdb
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\ConsoleTest\bin\Debug\GeometryLibrary.dll
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\ConsoleTest\bin\Debug\GeometryLibrary.pdb
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\ConsoleTest\obj\Debug\ConsoleTest.exe
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\ConsoleTest\bin\Debug\GeometryLibrary.dll
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\ConsoleTest\bin\Debug\GeometryLibrary.pdb
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache

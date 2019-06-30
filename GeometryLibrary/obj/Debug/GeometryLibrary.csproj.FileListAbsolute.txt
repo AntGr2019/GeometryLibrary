@@ -1,0 +1,10 @@
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\GeometryLibrary\bin\Debug\GeometryLibrary.dll
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\GeometryLibrary\bin\Debug\GeometryLibrary.pdb
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\GeometryLibrary\obj\Debug\GeometryLibrary.csprojResolveAssemblyReference.cache
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\GeometryLibrary\obj\Debug\GeometryLibrary.dll
+c:\users\ant\documents\visual studio 2013\Projects\GeometryLibrary\GeometryLibrary\obj\Debug\GeometryLibrary.pdb
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\GeometryLibrary\bin\Debug\GeometryLibrary.dll
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\GeometryLibrary\bin\Debug\GeometryLibrary.pdb
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\GeometryLibrary\obj\Debug\GeometryLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\GeometryLibrary\obj\Debug\GeometryLibrary.dll
+C:\Users\Ant\Documents\Visual Studio 2013\Projects\GeometryLibrary(forStarStaff)\GeometryLibrary\obj\Debug\GeometryLibrary.pdb
